@@ -24,7 +24,9 @@ When you access or use the Services, we automatically collect information about 
 
 **We also may collect other types of information in the following ways when you use the Services:**
 
-● Details of how you used and interacted with the Services, such as your search queries and how you responded to certain questions.● Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.● Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track your movements around the Services and understand trends.
+● Details of how you used and interacted with the Services, such as your search queries and how you responded to certain questions.
+● Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
+● Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track your movements around the Services and understand trends.
 
 **Information We Collect From Other Sources:** 
 
@@ -34,11 +36,33 @@ We may also obtain information from other sources and combine that with informat
 
 **We may use information about you for various purposes, including the following:**
 
-● **Provide, maintain, and improve the Services that you opt-in to receive, including, but not limited to, the following:**● Digital dispatching – direct and indirect integrations with motor clubs and insurers where your information is shared and job opportunities are provided, including, but not limited to,  ● Information related to a particular job opportunity.● Driver availability (i.e. is your driver available to work).● Status events (i.e. your driver is en-route) and status times (i.e. time driver arrived on-scene).● GPS / location data of driver before and during the various status events.● Photos of an accident, incident and/or vehicle.● Damage reports related to, and providing information about, the vehicle including license plates, vin numbers, service dates.● Cancellations or changes to a job.Information related to the outcome and handling of a particular job.
+● **Provide, maintain, and improve the Services that you opt-in to receive, including, but not limited to, the following:**
+● Digital dispatching – direct and indirect integrations with motor clubs and insurers where your information is shared and job opportunities are provided, including, but not limited to,  
+● Information related to a particular job opportunity.
+● Driver availability (i.e. is your driver available to work).
+● Status events (i.e. your driver is en-route) and status times (i.e. time driver arrived on-scene).
+● GPS / location data of driver before and during the various status events.
+● Photos of an accident, incident and/or vehicle.
+● Damage reports related to, and providing information about, the vehicle including license plates, vin numbers, service dates.
+● Cancellations or changes to a job.Information related to the outcome and handling of a particular job.
 
-● GPS and Maps – integrations with service providers allowing Rapid Valley Roadside to extract or receive real-time GPS coordinates for your driver who is using Rapid Valley Roadside. The location data is collected in a form that identifies your driver’s device and/or your driver’s vehicle. Also allows you to look up addresses, map calls, calculate mileage and track locations of drivers, customers and jobs. We do not specifically provide data to GPS companies, but our integration includes the two-way exchange of data.● Administrative – integrations that allow you to connect to financial accounting software, generate invoices, rates, accounts, account balances, charts, etc.
+● GPS and Maps – integrations with service providers allowing Rapid Valley Roadside to extract or receive real-time GPS coordinates for your driver who is using Rapid Valley Roadside. The location data is collected in a form that identifies your driver’s device and/or your driver’s vehicle. Also allows you to look up addresses, map calls, calculate mileage and track locations of drivers, customers and jobs. We do not specifically provide data to GPS companies, but our integration includes the two-way exchange of data.
+● Administrative – integrations that allow you to connect to financial accounting software, generate invoices, rates, accounts, account balances, charts, etc.
 
-● Provide and deliver the products and services you request, process transactions, and send you related information;● Verify your identity and, if applicable, authorization for you to use the Services ;● Process payment for Services;● Facilitate use of the Services;● Manage your account and your preferences;● To prevent or address service, security, technical issues at your request in connection with customer support matters● Respond to your comments, questions, and requests;● Send you technical notices and other administrative messages;● Communicate with you about products, services, offers, promotions, rewards, and events offered by us or others, and provide news and information we think will be of interest to you;● Monitor and analyze trends, usage, and activities in connection with car crashes, car crash data and the Services;● Conduct research, analysis, and surveys;● Personalize and improve the Services and provide content or features that match user profiles or interests;● Enforce our Terms;● Link or combine with information we get from others in connection with the Services; and● Carry out any other purpose for which the information was collected.
+● Provide and deliver the products and services you request, process transactions, and send you related information;
+● Verify your identity and, if applicable, authorization for you to use the Services ;
+● Process payment for Services;
+● Facilitate use of the Services;
+● Manage your account and your preferences;
+● To prevent or address service, security, technical issues at your request in connection with customer support matters● Respond to your comments, questions, and requests;
+● Send you technical notices and other administrative messages;
+● Communicate with you about products, services, offers, promotions, rewards, and events offered by us or others, and provide news and information we think will be of interest to you;
+● Monitor and analyze trends, usage, and activities in connection with car crashes, car crash data and the Services;
+● Conduct research, analysis, and surveys;
+● Personalize and improve the Services and provide content or features that match user profiles or interests;
+● Enforce our Terms;
+● Link or combine with information we get from others in connection with the Services; and
+● Carry out any other purpose for which the information was collected.
 
 This policy is not intended to place any limits on what we do with data that is aggregated and/or de-identified so it is no longer associated with an identifiable user of the Services. In other words, information about how you use the Services may be collected and combined with information about how others use the same Services, but no personally identifiable information will be included in the resulting data.
 
@@ -46,7 +70,12 @@ This policy is not intended to place any limits on what we do with data that is 
 
 **We may share or transfer information about you as follows or as otherwise described in this Privacy Policy:**
 
-● With third party affiliates, contractors, and other service providers in connection with providing the Services;● With affiliates, contractors, and other service providers who need access to such information to carry out work on our behalf;● In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation, or legal process, or as otherwise required by any applicable law, rule, or regulation;● If we believe your actions are inconsistent with the spirit or language of our Terms of Service or policies, or to protect the rights, property, and safety of you, us, or others;● In connection with, or during negotiations of, any merger, sale of our assets, financing, or acquisition of all or a portion of our business to another company;● With your consent or at your direction, including if we notify you through the Services that certain information you provide will be shared in a particular manner and you provide this information.
+● With third party affiliates, contractors, and other service providers in connection with providing the Services;
+● With affiliates, contractors, and other service providers who need access to such information to carry out work on our behalf;
+● In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation, or legal process, or as otherwise required by any applicable law, rule, or regulation;
+● If we believe your actions are inconsistent with the spirit or language of our Terms of Service or policies, or to protect the rights, property, and safety of you, us, or others;
+● In connection with, or during negotiations of, any merger, sale of our assets, financing, or acquisition of all or a portion of our business to another company;
+● With your consent or at your direction, including if we notify you through the Services that certain information you provide will be shared in a particular manner and you provide this information.
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
@@ -54,7 +83,10 @@ We may also share aggregated or de-identified information, which cannot reasonab
 
 We may allow others to provide analytics services in connection with the Services, such as New Relic, BugSnag, Crashlytics, and Google Analytics. These entities may use cookies, web beacons, and other technologies to collect information about your use of the Services, including your IP address, web browser, pages viewed, time spent on pages, links clicked, and conversion information. We and others may use this information to, among other things, analyze and track data, determine the popularity of certain content, personalize the user experience, and better understand your activity.
 
-● To learn more about New Relic, please visit [https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy).● To learn more about BugSnag, please visit [https://docs.bugsnag.com/legal/privacy-policy/](https://docs.bugsnag.com/legal/privacy-policy/).● To learn more about Crashlytics, please visit [https://fabric.io/terms](https://fabric.io/terms).● To learn more about Google Analytics, please visit https://policies.google.com/privacy.
+● To learn more about New Relic, please visit [https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy).
+● To learn more about BugSnag, please visit [https://docs.bugsnag.com/legal/privacy-policy/](https://docs.bugsnag.com/legal/privacy-policy/).
+● To learn more about Crashlytics, please visit [https://fabric.io/terms](https://fabric.io/terms).
+● To learn more about Google Analytics, please visit https://policies.google.com/privacy.
 
 **SECURITY**
 
@@ -82,7 +114,9 @@ The Services are intended for users who are eighteen (18) years of age and older
 
 We will retain your Personal Information for the period of time that is necessary to fulfil the original purposes for which it has been collected. Please keep in mind that, in certain cases, a longer retention period may be required or permitted by law or to allow us to pursue our business interests, conduct audits, comply with our legal obligations, enforce our agreements or resolve any dispute
 
-● Time needed to provide you with our Services.● Whether your account with us is active. You may contact us to make your account inactive at any time.● Legal, contractual, or similar obligations to retain your data, such as mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of contract or litigation.
+● Time needed to provide you with our Services.
+● Whether your account with us is active. You may contact us to make your account inactive at any time.
+● Legal, contractual, or similar obligations to retain your data, such as mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of contract or litigation.
 
 Please note that we are not responsible for storing any information that you provide to us or for any content or information that we provide to you. You are solely responsible for retaining backup files of any information and content that you provide or receive in connection with the Services.
 
