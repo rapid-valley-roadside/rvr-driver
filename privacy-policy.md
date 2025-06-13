@@ -126,6 +126,19 @@ The Services are provided from the United States.  If you are located outside 
 
 **OPTIONS**
 
+# Account Deletion Guide
+
+To delete your account, please follow these steps:
+
+1. **Log in** to your account using your credentials.
+2. **Navigate** to the menu by clicking the button in the top-left corner of the application.
+3. **Scroll down** through the menu options until you locate the "Delete Account" button.
+4. **Click** the "Delete Account" button.
+   - A warning message will appear, confirming your action.
+5. **Confirm** the deletion by selecting the appropriate option in the warning message.
+
+> **Note**: Account deletion is irreversible. Ensure you have backed up any important data before proceeding.
+
 **Your Information**
 
 Unless legal restrictions apply, you have the right to access the information we hold about you free of charge. You may update, correct or delete your information at any time by contacting us at support@rapidvalleyroadside.com To avoid delays in obtaining your information, please provide sufficient detail to permit us to identify you and the specific information that you are requesting. We will respond to your request within 30 days of receipt, unless we inform you that it will take longer, as permitted by law under certain circumstances. Please note that there may be instances where access may be restricted as permitted or required by law. We will advise you of the reasons for restricting access subject to any legal or regulatory limitations. In addition, please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period. Please note that we are not responsible for storing any information that you provide to us or a third party or for any content or information that we or a third party provide to you. You are solely responsible for retaining backup files of any information and content that you provide or receive in connection with the Services.
